@@ -1,4 +1,4 @@
 - 👋 Olá, me chamo Mariana Peres
-- 👀 Tenho interesse em desenvolvimento web
-- 🌱 Estou estudando Frontend no momento mas meu objetivo é ser fullstack
+- 👀 Tenho interesse em desenvolvimento de Software
+- 🌱 Estou estudando python no momento mas meu objetivo é ser fullstack
 - 💞️ Estou em busca de evolução profissional
