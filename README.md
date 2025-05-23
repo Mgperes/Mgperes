@@ -1,6 +1,6 @@
 <h1 align="center"> 
   Olá, eu sou <strong>Mariana Gonçalves</strong>! 👋 <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&width=435&lines=Desenvolvedor+Full-Stack;Apaixonado+por+IA;Open-Source+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&width=435&lines=Desenvolvedora+Full-Stack;Apaixonada+por+Resolver+Problemas;Open-Source+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <p align="center">
