@@ -38,14 +38,14 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[Awesome Project](https://github.com/seuusuario/awesome-project)** | Um projeto incrível que faz X | React, Node.js, MongoDB |
-| **[AI Experiments](https://github.com/seuusuario/ai-experiments)** | Experimentos com IA generativa | Python, TensorFlow |
+| **[Awesome Eletronic_site]([https://github.com/seuusuario/awesome-project](https://github.com/Mgperes/landingpage-eletronica-volt))** | Um projeto incrível que demonstra o que uma empresa é capaz de exercer. | HTML5, CSS3 |
+| **[Sendo construido](https://github.com/seuusuario/ai-experiments)** | Experimentos com IA generativa | Python, TensorFlow |
 
 ---
 
 ### 📫 Vamos Conversar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mariana-gon%C3%A7alves-33a803196/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-gon%C3%A7alves-33a803196/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white)](https://seusite.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/458802285464780811)
@@ -56,7 +56,7 @@
 
 ```python
 def about_me():
-    pronouns = "Ele/Dele"  # ou "Ela/Dela" ou outros
-    hobbies = ["Jogar Xadrez", "Tocar Violão", "Explorar IA"]
-    current_focus = "Construindo aplicações escaláveis com Next.js"
+    pronouns = "Ela/Dela"  # ou "Ela/Dela" ou outros
+    hobbies = ["Jogar Paciência", "Andar de bicicleta", "Explorar IA"]
+    current_focus = "Desenvolvendo uma aplicação com python"
     return "🚀 Sempre aprendendo e compartilhando conhecimento!"
