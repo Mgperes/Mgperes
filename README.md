@@ -16,7 +16,7 @@
 ```python
 def about_me():
     academic_background = "🎓 I am currently a computer engineering student at the Federal University of Rio Grande (FURG)" 
-    current_focus = " ✅ I work as volunteer on the Robotics Team FBOT in the industrial robot (@Work) category."
+    current_focus = " ✅I am working on academic projects focused on my professional development."
     return "🚀 Always learning and sharing knowledge!"
  ```
 
