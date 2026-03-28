@@ -23,6 +23,7 @@ def about_me():
 ## 🚀 My Skills
 
 <code><img height="32" src="https://github.com/user-attachments/assets/44171d80-a285-4f0b-85a8-080d0ae7a85f" alt="Python"/></code>
+<code><img height="32" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/9bec60ba-d1ff-4cd3-81ef-0f07b2137531" alt="ROS"/></code>
